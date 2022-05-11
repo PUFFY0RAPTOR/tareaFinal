@@ -1,0 +1,42 @@
+git init
+git config --global user.email "sebastianpertuzg@hotmail.com"
+git config --global user.name "Spertuz"
+git branch -M main
+git add .
+git remote add origin https://github.com/PUFFY0RAPTOR/tarea.git
+git push -u origin main
+git commit -m "first commit"
+git push -u origin main
+git add .
+git commit -m "second commit"
+git add . 
+git commit -m "third commit"
+git push
+git branch
+git branch -M main
+git remote add origin https://github.com/PUFFY0RAPTOR/tarea.git
+git push -u origin main
+git init
+git config --global user.email "sebastianpertuzg@hotmail.com"
+git config --global user.name "SpertuzG"
+git add .
+git commit -m "Primer commit"
+git branch -M main
+git remote add origin https://github.com/PUFFY0RAPTOR/tareaFinal.git
+git push -u origin main
+git add .
+git commit -m "Segundo commit"
+git push
+git add zzz.html
+git commit -m "Tercer commit"
+git push
+git add zzz.html
+git commit -m "Cuarto commit"
+git push
+git add zzz.html
+git commit -m "Quinto commit"
+git push
+git branch
+git checkout -b linea2
+git branch
+git checkout -b main
